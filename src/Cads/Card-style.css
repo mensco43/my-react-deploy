@@ -1,0 +1,161 @@
+body{
+background:radial-gradient(#e5e5e5,#ffffff,#e5e5e5);
+overflow-x:hidden;
+}
+.card{
+width:16rem;
+border-radius:20px;
+box-shadow: 0px 4px 8px 0px #0000001A;
+
+/*margin-bottom: 20px;
+margin-top: 60px;*/
+}
+.card:hover{
+    box-shadow: 5px, 10px,20px,1px rgba(0,0,0,0,253)!important;
+}
+.Card-body{
+    padding:3rem 0 !important;
+}
+.Card-text{
+    font-size:0.9rem;
+    padding: 0.4rem 1.9rem;
+}
+.container-fluid.row{
+    padding-top:6rem;
+}
+.overflow{
+    overflow:hidden;
+}
+.card-img-top{
+    transform:scale(1);
+}
+.card-img-top:hover{
+    transform: scale(1.8);
+}
+
+.row{
+    width:80%
+}
+.wapper h1{
+    margin-left:300px;
+    font-weight:600;
+}
+.text{
+    display:flex;
+    justify-content:space-evenly;
+    margin-right:110px;
+
+}
+.text h5{
+    background: #121C330D;
+}
+.text h6{
+    background: #121C330D;
+    padding-top:4px;
+}
+.roll{
+    margin-left:70px;
+    background: white
+}
+.my-card{
+width:50rem;
+border-radius:20px;
+background:#ffffff;
+height:100px;
+margin-top:100px;
+margin-right:10px;
+}
+.content{
+    display:flex;
+    justify-content: space-evenly;
+}
+.my-Card-title{
+    text-align:center;
+    font-weight:700;
+    margin-top:50px
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+    background:#FFFFFF;
+    width:100%;
+    height:50px;
+    box-shadow:0px 8px 16px 0px #00000033;
+    border-radius:20px;
+}
+.my-image{
+    width:-100%;
+    height:50px;
+}
+.dis-1{
+    width:10px;
+    border-radius:50px;
+
+}
+.word{
+    font-size:16px;
+    margin-left:30px;
+}
+.word h3{
+    font-size:16px;
+    font-weight: 700;
+}
+.word p{
+    font-size:16px;
+}
+@media only screen and (max-width: 768px) {  
+    body { 
+      background: green;
+      font-size: 16px;
+    }
+    .card{
+        width:10rem;
+        border-radius:20px;
+        box-shadow: 0px 4px 8px 0px #0000001A;
+        margin-bottom:10px;
+    } 
+    .wapper h1{
+        margin-left:650px;
+        font-weight:600;
+        margin-top:10px;
+    }
+  }
+  @media only screen and (min-width: 320px) {
+    .content{
+        display:flex;
+        flex-direction:column;
+    }
+    .row{
+        width:100%
+    }
+    .card{
+        width:20rem;
+        border-radius:20px;
+        box-shadow: 0px 4px 8px 0px #0000001A;
+        margin-left:30px;
+        margin-bottom:10px;
+    }   
+    .wapper h1{
+        margin-left:150px;
+        font-weight:600;
+        margin-top:10px;
+    }
+    .text{
+        display:flex;
+        justify-content:space-evenly;
+        margin-right:-100px;
+    
+    }
+    .my-card{
+        width:20rem;
+        border-radius:20px;
+        background:#ffffff;
+        height:800px;
+        margin-top:100px;
+        margin-right:10px;
+        margin-left:30px;
+        }
+    .col-md-12 {
+        margin-left:10px;
+    }
+  }

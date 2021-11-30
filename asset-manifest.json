@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-react-deploy/static/css/main.2df031e4.chunk.css",
+    "main.js": "/my-react-deploy/static/js/main.cb345ab8.chunk.js",
+    "main.js.map": "/my-react-deploy/static/js/main.cb345ab8.chunk.js.map",
+    "runtime-main.js": "/my-react-deploy/static/js/runtime-main.570d8b05.js",
+    "runtime-main.js.map": "/my-react-deploy/static/js/runtime-main.570d8b05.js.map",
+    "static/css/2.383c0125.chunk.css": "/my-react-deploy/static/css/2.383c0125.chunk.css",
+    "static/js/2.0ccc5436.chunk.js": "/my-react-deploy/static/js/2.0ccc5436.chunk.js",
+    "static/js/2.0ccc5436.chunk.js.map": "/my-react-deploy/static/js/2.0ccc5436.chunk.js.map",
+    "static/js/3.6829b05a.chunk.js": "/my-react-deploy/static/js/3.6829b05a.chunk.js",
+    "static/js/3.6829b05a.chunk.js.map": "/my-react-deploy/static/js/3.6829b05a.chunk.js.map",
+    "index.html": "/my-react-deploy/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/my-react-deploy/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.2df031e4.chunk.css.map": "/my-react-deploy/static/css/main.2df031e4.chunk.css.map",
+    "static/js/2.0ccc5436.chunk.js.LICENSE.txt": "/my-react-deploy/static/js/2.0ccc5436.chunk.js.LICENSE.txt",
+    "static/media/Capture.32ac6e5b.PNG": "/my-react-deploy/static/media/Capture.32ac6e5b.PNG",
+    "static/media/image-1.fe23ab10.jpg": "/my-react-deploy/static/media/image-1.fe23ab10.jpg",
+    "static/media/image-11.7996af36.jpg": "/my-react-deploy/static/media/image-11.7996af36.jpg",
+    "static/media/image-3.0d29e923.jpg": "/my-react-deploy/static/media/image-3.0d29e923.jpg",
+    "static/media/image-4.eea4cbec.jpg": "/my-react-deploy/static/media/image-4.eea4cbec.jpg",
+    "static/media/image-5.b964769d.jpg": "/my-react-deploy/static/media/image-5.b964769d.jpg",
+    "static/media/image-6.8f692efb.jpg": "/my-react-deploy/static/media/image-6.8f692efb.jpg",
+    "static/media/image-7.93df2a11.jpg": "/my-react-deploy/static/media/image-7.93df2a11.jpg",
+    "static/media/image-8.a5fc459b.jpg": "/my-react-deploy/static/media/image-8.a5fc459b.jpg",
+    "static/media/image-9.f43ddf31.jpg": "/my-react-deploy/static/media/image-9.f43ddf31.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.570d8b05.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.0ccc5436.chunk.js",
+    "static/css/main.2df031e4.chunk.css",
+    "static/js/main.cb345ab8.chunk.js"
+  ]
+}
